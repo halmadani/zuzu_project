@@ -1,2 +1,0 @@
-# zuzu_project
- ZUZU
